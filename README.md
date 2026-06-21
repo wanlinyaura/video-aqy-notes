@@ -1,2 +1,14 @@
 # video-aqy-notes
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
